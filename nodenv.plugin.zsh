@@ -1,6 +1,7 @@
 path[1,0]="$HOME/.nodenv/bin"
 path[1,0]="$ZSH/nodenv/node-build/bin"
 #eval "$(nodenv init -)"
+path[1,0]="$HOME/.nodenv/shims"
 export NODENV_SHELL=zsh
 source "$HOME/.nodenv/completions/nodenv.zsh"
 #nodenv rehash 2>/dev/null
