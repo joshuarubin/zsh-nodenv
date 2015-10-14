@@ -1,0 +1,6 @@
+[submodule "nodenv"]
+	path = nodenv
+	url = git://github.com/OiNutter/nodenv.git
+[submodule "node-build"]
+	path = node-build
+	url = git@github.com:joshuarubin/node-build.git
